@@ -13,9 +13,9 @@
 * Command Line Arguments
 * Data Types and Variables
 * Literal Constants
+* Operators and Expressions
 
-### Operators and Expressions
-* Control Flow and Enum Constants
+### Control Flow and Enum Constants
 * Conditions, Statements, Blocks
 * Conditional Statements
 * Loops and Switches
