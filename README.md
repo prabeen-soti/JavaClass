@@ -33,6 +33,14 @@
 * Getter/Setter method concept
 * Object class and override its methods.
 
+### Inheritance & Polymorphism
+* Inheritance
+* Inheritance in Java
+* Abstract Classes
+* Interfaces
+* Polymorphism: Dynamic Binding
+* Casting Objects
+
 ### Class Libraries
 * Type Wrappers
 * Type Conversion and Casting
@@ -51,14 +59,6 @@
 * Regular Expressions
 * String Applications
 * Array and Arrays class
-
-### Inheritance & Polymorphism
-* Inheritance
-* Inheritance in Java
-* Abstract Classes
-* Interfaces
-* Polymorphism: Dynamic Binding
-* Casting Objects
 
 ### Generics & Exceptions
 * Java Generics Basic
